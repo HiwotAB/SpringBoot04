@@ -1,0 +1,19 @@
+
+body{
+    color:black;
+    text-align: center;
+    background: url(../img/Logo-LOGIN.jpg)no-repeat center center;
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    background-size: 90%;
+}
+
+input[type=button], input[type=submit]{
+    background-color: #4CAF50;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}

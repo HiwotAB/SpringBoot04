@@ -1,0 +1,15 @@
+
+body{
+    color:green;
+
+    text-align: center;
+
+    color: #f8f8f8;
+
+    background: url(../img/success.jpg) no-repeat center center;
+
+    background-size: cover;
+
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
